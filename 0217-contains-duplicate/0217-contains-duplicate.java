@@ -5,11 +5,11 @@ class Solution {
 
         for(int num : nums){
 
-          if(x.contains(num))
+          if(x.contains(num)){
             return true;
-         
+          }else{
             x.add(num);
-         
+          }
 
         }
         return false;

@@ -1,13 +1,9 @@
 class Solution {
     
     static class TrieNode {
-        int idx;
-        TrieNode[] children;
+        int idx = -1;
+        TrieNode[] children = new TrieNode[26];
 
-        TrieNode() {
-            idx = -1; // Initialize with a default value
-            children = new TrieNode[26];
-        }
     }
 
     public TrieNode getNode(int idx) {

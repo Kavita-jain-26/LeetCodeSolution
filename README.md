@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Kavita-jain-26/LeetCodeSolution/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1046-last-stone-weight](https://github.com/Kavita-jain-26/LeetCodeSolution/tree/main/1046-last-stone-weight/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,4 +28,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Kavita-jain-26/LeetCodeSolution/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1046-last-stone-weight](https://github.com/Kavita-jain-26/LeetCodeSolution/tree/main/1046-last-stone-weight/) | Easy |
 <!---LeetCode Topics End-->

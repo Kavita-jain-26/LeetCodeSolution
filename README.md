@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Kavita-jain-26/LeetCodeSolution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Kavita-jain-26/LeetCodeSolution/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Kavita-jain-26/LeetCodeSolution/tree/main/1046-last-stone-weight/) | Easy |
+| [2446-determine-if-two-events-have-conflict](https://github.com/Kavita-jain-26/LeetCodeSolution/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,4 +79,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Kavita-jain-26/LeetCodeSolution/tree/main/0056-merge-intervals/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2446-determine-if-two-events-have-conflict](https://github.com/Kavita-jain-26/LeetCodeSolution/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 <!---LeetCode Topics End-->
